@@ -361,21 +361,20 @@ h1.navbar-brand {
 }
 
 .caption-content h2 {
-    color: #004b3f;
-    font-size: 52px;
+    color: #7db56e;
+    font-size: 62px;
     font-weight: bolder;
     margin-bottom: 25px;
-    text-shadow: 4px 4px 8px #fff;
+    text-shadow: 2px 2px 9px #000;
 
 }
 
 .caption-content > span {
     display: block;
-    font-size: 30px;
+    font-size: 38px;
     margin-bottom: 45px;
-    text-transform: capitalize;
-    color: #000;
-    text-shadow: 4px 4px 8px #fff;
+    color: #fff;
+    text-shadow: 2px 2px 7px #000;
 }
 
 .caption-content p {
