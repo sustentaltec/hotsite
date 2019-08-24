@@ -639,6 +639,7 @@ h1.navbar-brand {
 figcaption.mask {
     background-color: rgba(54, 55, 50, 0.79);
     bottom: -126px;
+
     color: #fff;
     padding: 25px;
     position: absolute;
@@ -1060,10 +1061,8 @@ textarea.form-control {
     border-radius: 0;
     color: #fff;
     padding: 13px 20px;
-    position: absolute;
     overflow: hidden;
-    right: 0;
-    top: 0;
+    width:100%;
 }
 
 .submit-icon .fa-paper-plane {
