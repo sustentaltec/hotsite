@@ -362,7 +362,7 @@ h1.navbar-brand {
 
 .caption-content h2 {
     color: #7db56e;
-    font-size: 62px;
+    font-size: 50px;
     font-weight: bolder;
     margin-bottom: 25px;
     text-shadow: 2px 2px 9px #000;
@@ -371,7 +371,7 @@ h1.navbar-brand {
 
 .caption-content > span {
     display: block;
-    font-size: 38px;
+    font-size: 30px;
     margin-bottom: 45px;
     color: #fff;
     text-shadow: 2px 2px 7px #000;
