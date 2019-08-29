@@ -16,9 +16,9 @@
 
 body {
     background-color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Manjari', sans-serif;
     line-height: 24px;
-    font-size: 16px;
+    font-size: 17px;
     color: #818181;
 }
 
@@ -50,7 +50,7 @@ a, a:hover, a:focus, .btn:focus {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Manjari', sans-serif;
     color: #252525;
 }
 
@@ -298,10 +298,8 @@ h1.navbar-brand {
 
 .navbar-inverse .navbar-nav > li > a {
     color: #fff;
-    font-size: 15px;
-    text-transform: uppercase;
+    font-size: 19px;
 }
-
 
 /*=================================================================
 	Home Slider
@@ -365,7 +363,7 @@ h1.navbar-brand {
     font-size: 50px;
     font-weight: bolder;
     margin-bottom: 25px;
-    text-shadow: 2px 2px 9px #000;
+    text-shadow: 2px 2px 5px #000;
 
 }
 
@@ -374,7 +372,7 @@ h1.navbar-brand {
     font-size: 30px;
     margin-bottom: 45px;
     color: #fff;
-    text-shadow: 2px 2px 7px #000;
+    text-shadow: 2px 2px 4px #000;
 }
 
 .caption-content p {
