@@ -12,7 +12,7 @@
         <title>SustentalTec</title>		
 		<!-- Meta Description -->
         <meta name="description" content="SustentalTec">
-        <meta name="keywords" content="compra consciente, produtos ecologicamente corretos, responsabilidade ambiental">
+        <meta name="keywords" content="compra consciente, produtos ecologicamente responsáveis, responsabilidade ambiental">
         <meta name="author" content="SustentalTec">
 		
 		<!-- Mobile Specific Meta -->
@@ -149,7 +149,7 @@
 								<h3>Fornecedores</h3>
 								<div id="works">
 									<div class="work-item">
-										<p>Você produz produtos que respeitam o meio ambiente e são ecologicamente corretos? Gostaria de ampliar suas vendas?</p>
+										<p>Você produz produtos que respeitam o meio ambiente e são ecologicamente responsáveis? Gostaria de ampliar suas vendas?</p>
 									</div>
 								</div>
 							</div>
@@ -188,7 +188,7 @@
 									<i class="fa fa-home fa-3x"></i>
 								</div>
 								<h3>PRODUTOS CONSCIENTES</h3>
-								<p>Uma breve descrição aqui. </p>
+								<p>Utilizam recursos naturais preservando o meio ambiente para não comprometer as gerações futuras</p>
 							</div>
 						</div>
 					
@@ -198,7 +198,7 @@
 									<i class="fa fa-tasks fa-3x"></i>
 								</div>
 								<h3>COMPRAS COLETIVAS</h3>
-								<p>Uma breve descrição aqui. </p>
+								<p>Grupos de consumidores se agrupam para obterem melhores condições de compra por um determinado produto.</p>
 							</div>
 						</div>
 					
@@ -251,7 +251,6 @@
 			</section>
 			
 			
-			
 			<!-- Contact section -->
 			<section id="contato" >
 				<div class="container">
@@ -261,7 +260,6 @@
 							<h2>Contato</h2>
 							<p>Envie-nos uma mensagem!</p>
 						</div>
-						
 						
 						<div class="col-md-7 contact-form wow animated fadeInLeft">
 							<form action="contato.php" method="post">
@@ -282,11 +280,11 @@
 							<address class="contact-details">
 								<h3>Nosso Contato</h3>						
 								<p>
-										<i class="fa fa-pencil"></i>
-										<b>SustentalTec</b>
-										<span>R. Gaspar Neves</span> 
-										<span>Centro, São José, Santa Catarina </span>
-										<span>88103-250</span>
+									<i class="fa fa-pencil"></i>
+									<b>SustentalTec</b>
+									<span>R. Gaspar Neves</span> 
+									<span>Centro, São José, Santa Catarina </span>
+									<span>88103-250</span>
 								</p>
 								<br>
 								<!-- <p><i class="fa fa-phone"></i> </p> -->
@@ -313,7 +311,7 @@
 						<!-- Begin Mailchimp Signup Form -->
 						<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 						<style type="text/css">
-							#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+							#mc_embed_signup{ clear:left; font:14px Helvetica,Arial,sans-serif; }
 							/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 							We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 						</style>
@@ -321,7 +319,7 @@
 	
 						<form action="https://sustentaltec.us3.list-manage.com/subscribe/post?u=4291516f0342399842c5692df&amp;id=9787384d89" method="post" id="mc-embedded-subscribe-form" name="subscribe-form wow animated fadeInUp mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 							<div id="mc_embed_signup_scroll">
-								<input type="email" value="" name="EMAIL" class="subscribe form-control" id="mce-EMAIL" placeholder="Seu e-mail" required>
+								<input type="email" value="" style="background-color: #fff;" name="EMAIL" class="subscribe form-control" id="mce-EMAIL" placeholder="Seu e-mail" required>
 								<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 								<button type="submit" class="submit-icon" name="subscribe" id="mc-embedded-subscribe" >
 										<i class="fa fa-paper-plane fa-lg"></i>
